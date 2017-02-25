@@ -1,0 +1,17 @@
+@import url(fonts.css);
+@import url(main-nav.css);
+
+body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    font-family: Gotham_Bold , sans-serif;
+    font-size: 16px;
+    color: #16a085;
+    background-color: gainsboro;
+
+}
+
